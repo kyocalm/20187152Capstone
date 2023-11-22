@@ -1,0 +1,7 @@
+/* 폰트 임포트 */
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap");
+
+/* 전역 폰트 적용 */
+body {
+  font-family: "DM Serif Display", serif;
+}
